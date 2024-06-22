@@ -8,6 +8,7 @@
 5. git commit 
 6. git checkout main
 7. git pull
+8. git test.
 
 # Roadmap  
 * 1
